@@ -1,0 +1,5 @@
+
+matplotlib==3.5.3
+matplotlib-inline==0.1.6
+numpy
+opencv-contrib-python==4.6.0.66
